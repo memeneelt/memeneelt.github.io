@@ -1,0 +1,28 @@
+html,body{
+    font-family: arial;
+    margin: 0;
+
+    }
+
+h1{
+    text-align: center;
+    background-color: brown;
+
+}
+ ul li{
+
+ }
+ p{
+    color: brown;
+    width: 50%;
+    height: 50%;
+ }
+
+ .h3{
+    justify-content: center;
+    flex-direction:center;
+ }
+button-container{
+    display: flex;
+    align-items: center;
+}
